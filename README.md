@@ -1,9 +1,8 @@
-This is the 2nd Line
+This is my first line. 
 
-This be the 3rd line. 
+This was added from ~/Git Account 1. 5th commit
 
-4th line is here. 
-
-
+This was added from ~/Git Account 1. 6th commit
+This was added from ~/Git Account 1. 7th commit
 
 This was added from ~/Git Account 1. 6th commit
